@@ -6,6 +6,7 @@ import numpy as np
 st.set_page_config(page_title="Predicciones Académicas", page_icon="📚")
 
 st.title("Predicción de Puntaje según Horas de Estudio 📚")
+st.info("**Nota:** En este modelo la nota mas alta es 100 puntos porque así viene en la base de datos. ")
 st.write("Mueve el control deslizante para calcular la nota estimada en el examen basado en el tiempo de estudio.")
 
 # --- REQUISITO OBLIGATORIO: Datos del estudiante y Colab ---
