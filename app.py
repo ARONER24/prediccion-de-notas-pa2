@@ -12,9 +12,8 @@ st.write("Mueve el control deslizante para calcular la nota estimada en el exame
 # --- REQUISITO OBLIGATORIO: Datos del estudiante y Colab ---
 st.sidebar.header("Información del Estudiante")
 st.sidebar.write("  Nombre: Luis Aron Limache Baldera")
-st.sidebar.write("  Profe pongame 20 :D ")# Tu preferencia de nombre
 st.sidebar.write("  Código ISIL:** [77134350]") 
-
+st.sidebar.write("  NOTA : Profe le mande un correo leame porfa :C")
 # IMPORTANTE: Reemplaza este enlace por el link de compartir de tu Colab (modo Lector)
 url_colab = "https://colab.research.google.com/drive/1vYNGZt2TeN-zNsgAt25phsEKcxNOFn8I?usp=sharing"
 st.sidebar.markdown(f"[🔗 Ver Cuaderno de Código Colab]({url_colab})")
