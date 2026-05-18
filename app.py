@@ -11,7 +11,8 @@ st.write("Mueve el control deslizante para calcular la nota estimada en el exame
 
 # --- REQUISITO OBLIGATORIO: Datos del estudiante y Colab ---
 st.sidebar.header("Información del Estudiante")
-st.sidebar.write("**Nombre:Luis Aron Limache Baldera")  # Tu preferencia de nombre
+st.sidebar.write("**Nombre:Luis Aron Limache Baldera")
+st.sidebar.write("**Profe pongame 20 :D")# Tu preferencia de nombre
 st.sidebar.write("**Código ISIL:** [77134350]") 
 
 # IMPORTANTE: Reemplaza este enlace por el link de compartir de tu Colab (modo Lector)
