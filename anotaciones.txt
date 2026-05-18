@@ -5,10 +5,10 @@ crea el código de mi tarea en un archivo llamado app.py usando Streamlit. Estoy
 Mi modelo ya está entrenado y guardado en un archivo llamado 'modelo_lr.pkl' dentro de una carpeta que se llama 'modelos'. Necesito que lo cargues usando joblib.
 
 La página web debe tener lo siguiente:
-1. Un título principal que diga algo como 'Predicción de Notas según Horas de Estudio'.
+1. Un título principal que diga  'Predicción de Puntaje según Horas de Estudio'.
 2. Un slider (control deslizante) para que la persona mueva las horas de estudio que va de 1 a 12 horas.
 3. Un botón que diga 'Calcular'. Cuando se presione, debe usar el modelo para calcular el puntaje estimado y mostrarlo en la pantalla de forma clara. Asegúrate de que la nota no pase de 100 ni baje de 0.
-4. Una barra lateral (sidebar) donde salgan fijos mis datos de alumno: Mi nombre (Aron Limache) y un espacio para poner mi Código ISIL.
+4. Una barra lateral (sidebar) donde salgan fijos mis datos de alumno: Mi nombre (Luis Aron Limache Baldera) y un espacio para poner mi Código ISIL.
 5. En esa misma barra lateral, pon un enlace web para que el profesor pueda hacer clic e ir a ver mi cuaderno de Google Colab en modo lector.
 
-Haz el código lo más limpio, básico y ordenado posible para que no me marque errores al subirlo a Streamlit."
+Haz el código lo más limpio y ordenado posible para que no me marque errores al subirlo a Streamlit."
