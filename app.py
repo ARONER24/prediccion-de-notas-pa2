@@ -14,7 +14,7 @@ st.sidebar.write("**Nombre:Luis Aron Limache Baldera")  # Tu preferencia de nomb
 st.sidebar.write("**Código ISIL:** [77134350]") 
 
 # IMPORTANTE: Reemplaza este enlace por el link de compartir de tu Colab (modo Lector)
-url_colab = "https://colab.research.google.com/drive/tu_enlace_aqui"
+url_colab = "https://colab.research.google.com/drive/1vYNGZt2TeN-zNsgAt25phsEKcxNOFn8I?usp=sharing"
 st.sidebar.markdown(f"[🔗 Ver Cuaderno de Código Colab]({url_colab})")
 # -----------------------------------------------------------
 
